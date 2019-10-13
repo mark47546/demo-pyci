@@ -167,5 +167,3 @@ You should read and understand these short documents:
 # demo-pyci
 
 > > > > > > > cdeb9f943fc278a378c9d98d30581ef3d1842733
-> > > > > > > #fix
-git 
