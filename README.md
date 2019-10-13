@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.com/your_acctid/demo-pyci.svg?branch=master)](https://travis-ci.com/your_acctid/demo-pyci)
-<<<<<<< HEAD
 Continuous Integration Demo
 ============================
 
@@ -163,8 +162,5 @@ You should read and understand these short documents:
 
 [travis-ci-concepts]: https://docs.travis-ci.com/user/for-beginners/
 
-=======
 
-# demo-pyci
 
-> > > > > > > cdeb9f943fc278a378c9d98d30581ef3d1842733
